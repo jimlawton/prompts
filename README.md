@@ -4,6 +4,7 @@ A collection of useful Agent prompts and rules files.
 
 References:
 
+- https://www.reddit.com/r/ArtificialInteligence/comments/1kw16yi/a_comprehensive_list_of_agentrule_files_do_we/ - discussion of the various AI systems and their use of rules files.
 - https://github.com/jlevy/simple-modern-uv - General and Python rules.
 - https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions - Copilot rules documentation.
 - https://docs.claude.com/en/docs/claude-code/memory - Claude memory documentation.
